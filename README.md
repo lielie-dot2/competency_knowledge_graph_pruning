@@ -12,16 +12,13 @@ This works present the task of knowledge graph entity pruning through an analogi
 ---
 ## Datasets
 
-Experiments are performed on three labeled datasets derived from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page), each representing a distinct domain:
+Experiments are performed on three labeled datasets containing pairs labeled with **prune (0)** and **keep (1)** decisions derived from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page), each representing a distinct domain:
 
 | Dataset | Domain | Description |
 | --- | --- | --- |
 | DS1 (dataset1) | Computer Science | Entity pairs related to computer science concepts |
 | DS2 (dataset2) | General Knowledge | Broad domain entity pairs across various topics |
-| DS3 (dataset3) | Art and Works of Art | Entity pairs related to artistic works and artists |
-
-
-Each dataset contains pairs labeled with **prune (0)** or **keep (1)** decisions indicating whether the pair should be kept for analogy inference. The data and train/test splits are located in the `/data` directory.
+| DS3 (dataset3) | Art and Works of Art | Entity pairs related to art and work of art |
 ---
 
 ## Methodologies for Pair Selection
