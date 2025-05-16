@@ -64,9 +64,15 @@ git clone https://github.com/lielie-dot2/competency_knowledge_graph_pruning.git
 ```bash
 python3 -m src/generate_sequence_simple.py --decisions1 ./data/dataset1_gold_decisions.csv --decisions2 ./data/dataset2_gold_decisions.csv --decisions3 ./data/dataset3_gold_decisions.csv --output ./data/sequenced_simple.pkl --embeddings path/to/your/embedding/hashmap/database
 ```
-## Step 3: Tune and Train the analogical model on a specific dataset
+## Step 3: Tune and Train the analogical model on a datasets
 ```bash
-python3 -m src/model_tuning_training.py --decisions ./data/datasetX_gold_decisions.csv --model ./model/model_datasetX.h5 --embeddings path/to/your/embedding/hashmap/database --sequenced-decisions ./data/sequenced_simple.pkl
+python3 -m src/model_tuning_training.py --decisions ./data/dataset1_gold_decisions.csv --model ./model/model_dataset1.h5 --embeddings path/to/your/embedding/hashmap/database --sequenced-decisions ./data/sequenced_simple.pkl
+```
+```bash
+python3 -m src/model_tuning_training.py --decisions ./data/dataset2_gold_decisions.csv --model ./model/model_dataset2.h5 --embeddings path/to/your/embedding/hashmap/database --sequenced-decisions ./data/sequenced_simple.pkl
+```
+```bash
+python3 -m src/model_tuning_training.py --decisions ./data/dataset3_gold_decisions.csv --model ./model/model_dataset3.h5 --embeddings path/to/your/embedding/hashmap/database --sequenced-decisions ./data/sequenced_simple.pkl
 ```
 ## Step 4: Pre-compute (M5) scores
 ```bash
