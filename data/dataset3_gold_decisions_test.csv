@@ -1,0 +1,213 @@
+from,starting label,QID,label,depth,target
+Q214867,National Gallery of Art,Q113262,National Gallery of Art,5,0
+Q160236,Metropolitan Museum of Art,Q191808,Metropolitan Museum of Art,4,0
+Q160236,Metropolitan Museum of Art,Q708492,Metropolitan Museum of Art,4,0
+Q104530765,Hugo Nathan,Q55647114,Hugo Nathan,4,0
+Q17277888,Gottlieb Friedrich Reber,Q18602666,Gottlieb Friedrich Reber,1,1
+Q26221201,Two Diggers among Trees,Q104694359,Two Diggers among Trees,4,0
+Q160236,Metropolitan Museum of Art,Q3181656,Metropolitan Museum of Art,3,0
+Q74128,Alfred Flechtheim,Q66362718,Alfred Flechtheim,4,0
+Q262234,Lenbachhaus,Q73357989,Lenbachhaus,1,0
+Q160236,Metropolitan Museum of Art,Q336025,Metropolitan Museum of Art,3,0
+Q160236,Metropolitan Museum of Art,Q68074438,Metropolitan Museum of Art,1,0
+Q160236,Metropolitan Museum of Art,Q1437754,Metropolitan Museum of Art,5,0
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q18120969,Two Poplars in the Alpilles near Saint-Rémy,5,0
+Q21948567,Sunflowers,Q1925963,Sunflowers,5,0
+Q160236,Metropolitan Museum of Art,Q237737,Metropolitan Museum of Art,5,0
+Q160236,Metropolitan Museum of Art,Q7320,Metropolitan Museum of Art,4,1
+Q160236,Metropolitan Museum of Art,Q15066958,Metropolitan Museum of Art,5,0
+Q160236,Metropolitan Museum of Art,Q486748,Metropolitan Museum of Art,4,0
+Q160236,Metropolitan Museum of Art,Q28989,Metropolitan Museum of Art,5,0
+Q160236,Metropolitan Museum of Art,Q8030760,Metropolitan Museum of Art,1,0
+Q3783572,Harvard Art Museums,Q1420782,Harvard Art Museums,2,0
+Q160236,Metropolitan Museum of Art,Q27606,Metropolitan Museum of Art,4,0
+Q55680361,Oskar Reichel,Q1773840,Oskar Reichel,5,1
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q2185351,Two Poplars in the Alpilles near Saint-Rémy,2,0
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q85095826,Two Poplars in the Alpilles near Saint-Rémy,4,1
+Q160236,Metropolitan Museum of Art,Q19794158,Metropolitan Museum of Art,3,0
+Q160236,Metropolitan Museum of Art,Q2645040,Metropolitan Museum of Art,5,1
+Q160236,Metropolitan Museum of Art,Q19912383,Metropolitan Museum of Art,3,0
+Q214867,National Gallery of Art,Q7541856,National Gallery of Art,5,0
+Q160236,Metropolitan Museum of Art,Q4799609,Metropolitan Museum of Art,5,1
+Q160236,Metropolitan Museum of Art,Q3040048,Metropolitan Museum of Art,5,1
+Q160236,Metropolitan Museum of Art,Q152785,Metropolitan Museum of Art,4,0
+Q214867,National Gallery of Art,Q250867,National Gallery of Art,3,0
+Q160236,Metropolitan Museum of Art,Q28848149,Metropolitan Museum of Art,5,1
+Q160236,Metropolitan Museum of Art,Q706075,Metropolitan Museum of Art,4,0
+Q160236,Metropolitan Museum of Art,Q5594502,Metropolitan Museum of Art,5,0
+Q17277888,Gottlieb Friedrich Reber,Q7319,Gottlieb Friedrich Reber,5,1
+Q214867,National Gallery of Art,Q826482,National Gallery of Art,4,1
+Q74128,Alfred Flechtheim,Q329439,Alfred Flechtheim,5,0
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q657415,Two Poplars in the Alpilles near Saint-Rémy,1,1
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q20771242,Two Poplars in the Alpilles near Saint-Rémy,4,1
+Q21948567,Sunflowers,Q20630408,Sunflowers,3,1
+Q1634926,Hugo Cassirer,Q28035859,Hugo Cassirer,4,1
+Q26221201,Two Diggers among Trees,Q723358,Two Diggers among Trees,4,1
+Q104530765,Hugo Nathan,Q30335959,Hugo Nathan,3,1
+Q1634926,Hugo Cassirer,Q3059832,Hugo Cassirer,4,1
+Q17277888,Gottlieb Friedrich Reber,Q39631,Gottlieb Friedrich Reber,5,0
+Q55680361,Oskar Reichel,Q12362622,Oskar Reichel,5,0
+Q74128,Alfred Flechtheim,Q20267520,Alfred Flechtheim,5,0
+Q26221184,Olive Picking,Q81096,Olive Picking,3,0
+Q29441758,Margarete Mauthner,Q806349,Margarete Mauthner,3,0
+Q657415,Cleveland Museum of Art,Q47906,Cleveland Museum of Art,5,1
+Q17277888,Gottlieb Friedrich Reber,Q99413897,Gottlieb Friedrich Reber,5,0
+Q17277888,Gottlieb Friedrich Reber,Q10478639,Gottlieb Friedrich Reber,5,0
+Q1634926,Hugo Cassirer,Q18347243,Hugo Cassirer,5,1
+Q29441758,Margarete Mauthner,Q3658608,Margarete Mauthner,5,0
+Q160236,Metropolitan Museum of Art,Q36450,Metropolitan Museum of Art,5,0
+Q657415,Cleveland Museum of Art,Q98959841,Cleveland Museum of Art,3,1
+Q29441758,Margarete Mauthner,Q21479251,Margarete Mauthner,5,1
+Q17277888,Gottlieb Friedrich Reber,Q7933396,Gottlieb Friedrich Reber,3,1
+Q160236,Metropolitan Museum of Art,Q27886480,Metropolitan Museum of Art,4,0
+Q160236,Metropolitan Museum of Art,Q3873319,Metropolitan Museum of Art,5,0
+Q74128,Alfred Flechtheim,Q21948567,Alfred Flechtheim,3,1
+Q160236,Metropolitan Museum of Art,Q3391743,Metropolitan Museum of Art,5,0
+Q26221201,Two Diggers among Trees,Q2837972,Two Diggers among Trees,5,0
+Q74128,Alfred Flechtheim,Q6419949,Alfred Flechtheim,2,1
+Q160236,Metropolitan Museum of Art,Q20730464,Metropolitan Museum of Art,3,1
+Q160236,Metropolitan Museum of Art,Q806798,Metropolitan Museum of Art,3,0
+Q26221201,Two Diggers among Trees,Q20539215,Two Diggers among Trees,4,1
+Q55680361,Oskar Reichel,Q173950,Oskar Reichel,4,1
+Q1634926,Hugo Cassirer,Q12362622,Hugo Cassirer,4,0
+Q29441758,Margarete Mauthner,Q19180675,Margarete Mauthner,4,0
+Q55680361,Oskar Reichel,Q55845255,Oskar Reichel,3,1
+Q17277888,Gottlieb Friedrich Reber,Q13382529,Gottlieb Friedrich Reber,4,0
+Q55680361,Oskar Reichel,Q109354198,Oskar Reichel,5,1
+Q104530765,Hugo Nathan,Q20539215,Hugo Nathan,3,1
+Q214867,National Gallery of Art,Q67311526,National Gallery of Art,3,0
+Q104530765,Hugo Nathan,Q333256,Hugo Nathan,4,0
+Q160236,Metropolitan Museum of Art,Q178513,Metropolitan Museum of Art,5,0
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q7720110,Two Poplars in the Alpilles near Saint-Rémy,2,0
+Q160236,Metropolitan Museum of Art,Q54957312,Metropolitan Museum of Art,5,1
+Q17277888,Gottlieb Friedrich Reber,Q82955,Gottlieb Friedrich Reber,2,0
+Q160236,Metropolitan Museum of Art,Q28020106,Metropolitan Museum of Art,5,0
+Q867510,Cypresses,Q26689481,Cypresses,5,1
+Q55680361,Oskar Reichel,Q72958372,Oskar Reichel,3,1
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q3501317,Two Poplars in the Alpilles near Saint-Rémy,5,0
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q58433306,Two Poplars in the Alpilles near Saint-Rémy,4,1
+Q74128,Alfred Flechtheim,Q47153187,Alfred Flechtheim,2,1
+Q867510,Cypresses,Q58433306,Cypresses,4,1
+Q160236,Metropolitan Museum of Art,Q29167435,Metropolitan Museum of Art,2,0
+Q160236,Metropolitan Museum of Art,Q17249501,Metropolitan Museum of Art,4,0
+Q324935,Ferenc Hatvany,Q43845,Ferenc Hatvany,2,0
+Q55680361,Oskar Reichel,Q98801351,Oskar Reichel,5,1
+Q29441758,Margarete Mauthner,Q26221149,Margarete Mauthner,1,1
+Q214867,National Gallery of Art,Q1979607,National Gallery of Art,3,0
+Q160236,Metropolitan Museum of Art,Q75317885,Metropolitan Museum of Art,5,0
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q10862983,Two Poplars in the Alpilles near Saint-Rémy,2,0
+Q160236,Metropolitan Museum of Art,Q107750647,Metropolitan Museum of Art,5,1
+Q104530765,Hugo Nathan,Q2644753,Hugo Nathan,5,1
+Q160236,Metropolitan Museum of Art,Q19913763,Metropolitan Museum of Art,3,1
+Q1634926,Hugo Cassirer,Q46002746,Hugo Cassirer,3,0
+Q29441758,Margarete Mauthner,Q4110598,Margarete Mauthner,5,0
+Q214867,National Gallery of Art,Q105757729,National Gallery of Art,5,0
+Q214867,National Gallery of Art,Q17378135,National Gallery of Art,4,0
+Q74128,Alfred Flechtheim,Q63342871,Alfred Flechtheim,5,1
+Q26221201,Two Diggers among Trees,Q3067376,Two Diggers among Trees,5,1
+Q55680361,Oskar Reichel,Q215536,Oskar Reichel,5,0
+Q160236,Metropolitan Museum of Art,Q19905240,Metropolitan Museum of Art,3,1
+Q214867,National Gallery of Art,Q11075015,National Gallery of Art,4,0
+Q160236,Metropolitan Museum of Art,Q372954,Metropolitan Museum of Art,5,0
+Q74128,Alfred Flechtheim,Q67138112,Alfred Flechtheim,3,1
+Q867510,Cypresses,Q78684258,Cypresses,4,1
+Q160236,Metropolitan Museum of Art,Q7541856,Metropolitan Museum of Art,4,0
+Q26221201,Two Diggers among Trees,Q18347243,Two Diggers among Trees,5,1
+Q1634926,Hugo Cassirer,Q131524,Hugo Cassirer,1,0
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q1423891,Two Poplars in the Alpilles near Saint-Rémy,4,0
+Q214867,National Gallery of Art,Q1321055,National Gallery of Art,5,1
+Q55680361,Oskar Reichel,Q76513716,Oskar Reichel,2,1
+Q17277888,Gottlieb Friedrich Reber,Q17378135,Gottlieb Friedrich Reber,2,0
+Q104530765,Hugo Nathan,Q49246672,Hugo Nathan,5,1
+Q160236,Metropolitan Museum of Art,Q222728,Metropolitan Museum of Art,5,1
+Q867510,Cypresses,Q318815,Cypresses,4,1
+Q160236,Metropolitan Museum of Art,Q35275336,Metropolitan Museum of Art,4,1
+Q160236,Metropolitan Museum of Art,Q33315010,Metropolitan Museum of Art,4,1
+Q324935,Ferenc Hatvany,Q2657718,Ferenc Hatvany,4,0
+Q867510,Cypresses,Q4091878,Cypresses,4,0
+Q160236,Metropolitan Museum of Art,Q55647114,Metropolitan Museum of Art,4,0
+Q17277888,Gottlieb Friedrich Reber,Q98806862,Gottlieb Friedrich Reber,2,1
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q8246794,Two Poplars in the Alpilles near Saint-Rémy,5,0
+Q160236,Metropolitan Museum of Art,Q621088,Metropolitan Museum of Art,4,0
+Q26221184,Olive Picking,Q602358,Olive Picking,4,0
+Q74128,Alfred Flechtheim,Q104585989,Alfred Flechtheim,1,1
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q28927781,Two Poplars in the Alpilles near Saint-Rémy,5,0
+Q74128,Alfred Flechtheim,Q19006298,Alfred Flechtheim,2,1
+Q160236,Metropolitan Museum of Art,Q45320214,Metropolitan Museum of Art,5,1
+Q1634926,Hugo Cassirer,Q4532138,Hugo Cassirer,5,0
+Q867510,Cypresses,Q10288082,Cypresses,3,1
+Q26221201,Two Diggers among Trees,Q173950,Two Diggers among Trees,4,1
+Q160236,Metropolitan Museum of Art,Q99484628,Metropolitan Museum of Art,3,0
+Q55680361,Oskar Reichel,Q74128,Oskar Reichel,4,1
+Q160236,Metropolitan Museum of Art,Q20735394,Metropolitan Museum of Art,5,1
+Q867510,Cypresses,Q1418856,Cypresses,5,1
+Q1634926,Hugo Cassirer,Q674426,Hugo Cassirer,4,1
+Q657415,Cleveland Museum of Art,Q21753940,Cleveland Museum of Art,5,1
+Q867510,Cypresses,Q39631,Cypresses,5,0
+Q160236,Metropolitan Museum of Art,Q446724,Metropolitan Museum of Art,3,0
+Q104530765,Hugo Nathan,Q14623005,Hugo Nathan,5,0
+Q324935,Ferenc Hatvany,Q98801351,Ferenc Hatvany,3,1
+Q867510,Cypresses,Q60514834,Cypresses,4,1
+Q160236,Metropolitan Museum of Art,Q110322027,Metropolitan Museum of Art,3,0
+Q1634926,Hugo Cassirer,Q42601013,Hugo Cassirer,5,1
+Q160236,Metropolitan Museum of Art,Q11768687,Metropolitan Museum of Art,5,0
+Q74128,Alfred Flechtheim,Q46596638,Alfred Flechtheim,5,1
+Q160236,Metropolitan Museum of Art,Q30335959,Metropolitan Museum of Art,3,1
+Q160236,Metropolitan Museum of Art,Q437295,Metropolitan Museum of Art,2,0
+Q74128,Alfred Flechtheim,Q1868065,Alfred Flechtheim,4,0
+Q1634926,Hugo Cassirer,Q1970746,Hugo Cassirer,5,0
+Q55680361,Oskar Reichel,Q83488454,Oskar Reichel,4,1
+Q160236,Metropolitan Museum of Art,Q2644753,Metropolitan Museum of Art,4,1
+Q17277888,Gottlieb Friedrich Reber,Q379406,Gottlieb Friedrich Reber,3,0
+Q74128,Alfred Flechtheim,Q51626,Alfred Flechtheim,5,1
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q363383,Two Poplars in the Alpilles near Saint-Rémy,5,1
+Q1634926,Hugo Cassirer,Q867541,Hugo Cassirer,5,0
+Q74128,Alfred Flechtheim,Q864380,Alfred Flechtheim,5,0
+Q1634926,Hugo Cassirer,Q53092134,Hugo Cassirer,5,1
+Q74128,Alfred Flechtheim,Q77257348,Alfred Flechtheim,3,1
+Q74128,Alfred Flechtheim,Q1792450,Alfred Flechtheim,1,1
+Q17277888,Gottlieb Friedrich Reber,Q98281053,Gottlieb Friedrich Reber,5,0
+Q214867,National Gallery of Art,Q51955019,National Gallery of Art,5,0
+Q160236,Metropolitan Museum of Art,Q275336,Metropolitan Museum of Art,5,0
+Q55680361,Oskar Reichel,Q106849354,Oskar Reichel,5,1
+Q160236,Metropolitan Museum of Art,Q15954519,Metropolitan Museum of Art,5,0
+Q17277888,Gottlieb Friedrich Reber,Q173950,Gottlieb Friedrich Reber,1,1
+Q55680361,Oskar Reichel,Q19681547,Oskar Reichel,3,1
+Q160236,Metropolitan Museum of Art,Q55845962,Metropolitan Museum of Art,5,0
+Q867510,Cypresses,Q2544162,Cypresses,4,1
+Q74128,Alfred Flechtheim,Q67311526,Alfred Flechtheim,3,0
+Q55680361,Oskar Reichel,Q76433,Oskar Reichel,5,0
+Q74128,Alfred Flechtheim,Q43845,Alfred Flechtheim,3,0
+Q17277888,Gottlieb Friedrich Reber,Q1234713,Gottlieb Friedrich Reber,4,0
+Q21948567,Sunflowers,Q2526255,Sunflowers,5,0
+Q74128,Alfred Flechtheim,Q4008950,Alfred Flechtheim,3,1
+Q17277888,Gottlieb Friedrich Reber,Q58433306,Gottlieb Friedrich Reber,3,1
+Q657415,Cleveland Museum of Art,Q176251,Cleveland Museum of Art,2,1
+Q74128,Alfred Flechtheim,Q76157869,Alfred Flechtheim,5,0
+Q160236,Metropolitan Museum of Art,Q28860082,Metropolitan Museum of Art,2,1
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q4532138,Two Poplars in the Alpilles near Saint-Rémy,3,0
+Q69860245,Mór Lipót Herzog,Q1768721,Mór Lipót Herzog,2,0
+Q160236,Metropolitan Museum of Art,Q27979252,Metropolitan Museum of Art,5,0
+Q160236,Metropolitan Museum of Art,Q1780490,Metropolitan Museum of Art,3,0
+Q26221184,Olive Picking,Q104694359,Olive Picking,3,0
+Q104530765,Hugo Nathan,Q27051827,Hugo Nathan,5,0
+Q214867,National Gallery of Art,Q68074438,National Gallery of Art,5,0
+Q29441758,Margarete Mauthner,Q1810348,Margarete Mauthner,5,1
+Q156426,Alexej von Jawlensky,Q2657718,Alexej von Jawlensky,5,0
+Q156426,Alexej von Jawlensky,Q1970746,Alexej von Jawlensky,5,0
+Q29441758,Margarete Mauthner,Q78060740,Margarete Mauthner,5,1
+Q21948567,Sunflowers,Q17378135,Sunflowers,5,0
+Q29441758,Margarete Mauthner,Q41751676,Margarete Mauthner,5,0
+Q160236,Metropolitan Museum of Art,Q75534054,Metropolitan Museum of Art,5,0
+Q160236,Metropolitan Museum of Art,Q6430706,Metropolitan Museum of Art,5,0
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q49133,Two Poplars in the Alpilles near Saint-Rémy,4,1
+Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q867510,Two Poplars in the Alpilles near Saint-Rémy,5,1
+Q1634926,Hugo Cassirer,Q113262,Hugo Cassirer,5,0
+Q160236,Metropolitan Museum of Art,Q27982855,Metropolitan Museum of Art,5,1
+Q867510,Cypresses,Q26221201,Cypresses,4,1
+Q160236,Metropolitan Museum of Art,Q628679,Metropolitan Museum of Art,4,0
+Q214867,National Gallery of Art,Q766737,National Gallery of Art,5,0
+Q74128,Alfred Flechtheim,Q131572,Alfred Flechtheim,1,1
+Q1634926,Hugo Cassirer,Q1792450,Hugo Cassirer,5,1
+Q160236,Metropolitan Museum of Art,Q10862983,Metropolitan Museum of Art,3,0
+Q160236,Metropolitan Museum of Art,Q98605872,Metropolitan Museum of Art,5,1

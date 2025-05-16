@@ -1,0 +1,100 @@
+from,starting label,QID,label,depth,target
+Q188273,Ubisoft,Q3029462,specialized directorates of fiscal control,2,0
+Q2539,machine learning,Q64809896,International Business and Marketing,2,0
+Q188273,Ubisoft,Q2955972,chancellerie des universités,2,0
+Q14922,table football,Q895060,boules,2,0
+Q1636958,Xiaomi,Q110484183,cigarette company,2,0
+Q2539,machine learning,Q3478658,knowledge representation and reasoning,2,1
+Q324254,ontology,Q1397073,data schema,1,1
+Q848609,Dagobah,Q108059870,Star Wars planet,1,1
+Q777,Google Chrome,Q900604,addres,2,0
+Q1139866,Dofus,Q65073088,Nintendo Gateway System,2,0
+Q7935239,Virtuoso Universal Server,Q3932296,relational database management system,1,1
+Q30299483,Inria Nancy - Grand-Est research centre,Q7315155,research center,1,1
+Q1139866,Dofus,Q89691527,Xbox Original,2,0
+Q188273,Ubisoft,Q3480110,Service d'inspection,2,0
+Q38076,McDonald’s,Q19509097,cigarette brand,2,0
+Q381,Ubuntu,Q18915790,Ubuntu MATE,1,1
+Q2539,machine learning,Q85810444,transformer,2,1
+Q38076,McDonald’s,Q12817454,agricultural firm,2,0
+Q223127,Logitech,Q891723,public company,1,1
+Q1437394,formal concept analysis,Q2292993,design method,2,0
+Q121416,discrete mathematics,Q1208658,ring theory,2,1
+Q76592,combinatorics,Q56313053,Additive combinatorics,1,1
+Q129337,TGV,Q1049958,SNCF TGV POS,2,1
+Q38695,cooking,Q16920758,food and drink preparation,1,1
+Q2551422,Water damage,Q481609,damage,1,1
+Q2813,Coca-Cola,Q896,Mountain Dew,2,1
+Q864693,chicken meat,Q4200953,turkey meat,2,1
+Q195,chocolate,Q752276,functional food,1,1
+Q1431486,Orange,Q1266169,telephone company,1,1
+Q231136,Encarta,Q13419255,hypertext encyclopedia,1,1
+Q11020,pool,Q512270,Five-pin billiards,3,1
+Q11020,pool,Q27907674,girls' singles,2,0
+Q168403,myopia,Q2470609,Wagner's disease,2,1
+Q35996,Mazda,Q891723,public company,1,1
+Q121416,discrete mathematics,Q1317202,Hodge theory,2,1
+Q38076,McDonald’s,Q107171122,Made in Hungary,2,0
+Q2539,machine learning,Q40890078,Explainable AI,2,1
+Q201664,bracelet,Q488720,charm bracelet,1,1
+Q392500,Agence Nationale de la Recherche,Q51704864,national public establishment of an administrative nature,2,1
+Q68,computer,Q241317,computing platform,1,1
+Q12014035,hiking,Q184872,recreation,1,1
+Q52,Wikipedia,Q33120867,Wikimedia wiki,2,1
+Q2813,Coca-Cola,Q5759783,Highway,2,1
+Q76592,combinatorics,Q1936384,area of mathematics,1,1
+Q1152227,pharmacogenomics,Q841450,toxicogenomics,2,1
+Q2746070,Canelé,Q1660010,Christmas cookies,2,1
+Q312,Apple Inc.,Q431289,brand,1,1
+Q121416,discrete mathematics,Q61793851,noncommutative algebra,2,1
+Q38076,McDonald’s,Q811404,Bauhof,2,0
+Q76592,combinatorics,Q1005603,algebraic combinatorics,1,1
+Q11020,pool,Q50386068,youth mixed doubles,2,0
+Q131476,graph theory,Q18205998,circuit topology,1,1
+Q38076,McDonald’s,Q80359036,alcohol brand,2,0
+Q52,Wikipedia,Q1293664,open content,1,1
+Q28785,Sacré-Cœur,Q1530022,religious organization,1,1
+Q337535,Steam,Q8048052,Yamigo,2,0
+Q2283,Microsoft,Q891723,public company,1,1
+Q38076,McDonald’s,Q102167691,Communist Chinese Military Companies,2,0
+Q2813,Coca-Cola,Q2300409,Premium-Cola,2,1
+Q17130715,Slack,Q620615,mobile app,1,1
+Q2813,Coca-Cola,Q50425277,diet cola,2,1
+Q1636958,Xiaomi,Q76384698,ammunication factory,2,0
+Q38076,McDonald’s,Q11294827,camera manufacturer,2,0
+Q51746,Luke Skywalker,Q3008212,Cyberman,2,0
+Q2539,machine learning,Q4875410,Bayesian confidence propagation neural network,2,1
+Q188273,Ubisoft,Q3029536,direction départementale des territoires,2,0
+Q22907849,Discord,Q3391957,online community platform,2,1
+Q2539,machine learning,Q4740894,fish disease and parasites,2,0
+Q9340,Google Drive,Q1668024,service on internet,1,1
+Q133215,casino,Q16852719,casino hotel,1,1
+Q131476,graph theory,Q3180727,spectral graph theory,1,1
+Q17130715,Slack,Q15505266,Login manager,2,0
+Q159992,surfing,Q178131,snowboarding,2,0
+Q159992,surfing,Q14085739,sailing,2,1
+Q105674,running,Q15621650,skiing,2,0
+Q38076,McDonald’s,Q30765558,cement company,2,0
+Q129337,TGV,Q928468,TGV Réseau,2,1
+Q2746070,Canelé,Q28416788,Lotus seed paste cake,2,1
+Q76592,combinatorics,Q5422299,extremal combinatorics,1,1
+Q324254,ontology,Q5378800,Enhanced entity–relationship model,2,1
+Q22907849,Discord,Q2462003,instant messaging client,1,1
+Q2746070,Canelé,Q3778467,gubana,2,1
+Q1636958,Xiaomi,Q1186164,corporate spin-off,2,0
+Q2813,Coca-Cola,Q12311058,Fanta Free Orange,2,1
+Q38076,McDonald’s,Q1817883,furniture manufacturer,2,0
+Q11020,pool,Q27907692,girls' doubles,2,0
+Q180204,shampoo,Q11322916,dry shampoo,1,1
+Q1847641,human facial hair,Q43748,eyebrow,1,0
+Q196538,microscope,Q54167390,lucernal microscope,1,1
+Q1200183,Fiber to the home,Q7257917,Public infrastructure,2,1
+Q847,tennis,Q47094420,Foam Tennis,1,1
+Q11020,pool,Q94535288,1500m femmes en patinage de vitesse,2,0
+Q118398,arXiv,Q16001076,3D printing marketplace,2,0
+Q188273,Ubisoft,Q33114024,exile organization,2,0
+Q28406404,Microsoft Teams,Q7705753,test automation management tool,2,0
+Q11020,pool,Q917562,carom billiards,2,1
+Q30299483,Inria Nancy - Grand-Est research centre,Q11560645,waste management facility,2,0
+Q1273376,E.Leclerc,Q562166,housing cooperative,2,0
+Q38076,McDonald’s,Q1266169,telephone company,2,0

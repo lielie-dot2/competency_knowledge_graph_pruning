@@ -1,0 +1,524 @@
+from,starting label,QID,label,depth,target
+Q11163,User Datagram Protocol,Q290378,internet standard,1,1
+Q169411,Unified Modeling Language,Q28923013,inductive logic programming language,2,0
+Q749245,Autonomous System,Q2709287,support,2,0
+Q959710,Password Authentication Protocol,Q747499,RADIUS,3,1
+Q15587490,construction client,Q5124691,civil servant of the People's Republic of China,2,0
+Q229804,3rd Generation Partnership Project,Q1132207,business incubator,2,0
+Q30232,agile software development,Q210813,direct memory access,2,0
+Q2944989,Centre commun d'études de télévision et télécommunications,Q22811668,archaeological institute,2,0
+Q846636,software architecture,Q2377182,System analysis,2,1
+Q870780,chatbot,Q110509814,neural network layer,2,1
+Q163393,Post Office Protocol 3,Q1025017,Cache coherence,2,0
+Q42591,mp3,Q1053358,AutoCAD Drawing,2,0
+Q81945,Voice over IP,Q110934262,analog technology,2,1
+Q870780,chatbot,Q48835386,Feed,2,0
+Q215536,merchant,Q56489540,chansonnier,2,0
+Q19900,Oracle,Q811404,Bauhof,2,0
+Q2269250,kilobit per second,Q7351621,unit of data rate,1,1
+Q189436,speech recognition,Q19935939,branch of geography,2,0
+Q161410,peer-to-peer,Q1052721,multitier architecture,2,1
+Q2826644,French Food Safety Agency,Q3006228,crédit municipal,2,0
+Q4071928,cyberattack,Q849340,cyberwarfare,1,1
+Q5324680,EXFO,Q56315965,Nano cap,2,0
+Q288682,XACML,Q20155966,XML-based format,1,1
+Q841645,Internet television,Q911772,technical chemistry,2,0
+Q853645,Universal Disk Format,Q5254115,Dell Fluid File System,2,0
+Q841645,Internet television,Q6941971,music instrument technology,2,0
+Q212633,H.264/MPEG-4 AVC,Q731128,X.500,2,0
+Q190746,Advanced Encryption Standard,Q198614,style guide,2,0
+Q4007363,ITU Telecommunication Standardization Sector,Q1311569,Railway divisions in Germany,2,0
+Q460387,Scrum,Q2023606,education program,1,0
+Q18979,Kanban,Q108616731,element in Chinese astrology,2,0
+Q846636,software architecture,Q17112037,translational medicine,2,0
+Q134471,Asynchronous JavaScript and XML,Q28923027,recursive programming language,2,0
+Q309396,keystroke logging,Q1074158,educational software,2,0
+Q2053,HTML5,Q5448353,File select,4,0
+Q2574811,cause,Q1707847,role,2,0
+Q747499,RADIUS,Q1208648,Diameter,3,1
+Q431195,IBM Db2,Q17089542,WebScaleSQL,2,1
+Q2476929,confidentiality,Q5158717,concision,2,0
+Q2994294,GMSK,Q750463,phase modulation,2,1
+Q1142376,LIFO,Q41408440,disk scheduling algorithm,2,1
+Q207434,human–computer interaction,Q64811167,Sustainable Development in Small Island States,2,0
+Q41609,Domain Name System Security Extensions,Q2101564,specification,1,1
+Q752245,widescreen,Q5502646,French standard size for oil paintings,2,0
+Q875932,digital watermarking,Q1221121,official seal,2,1
+Q7935151,Virtual Private Cloud,Q483639,cloud computing,1,1
+Q1359246,Jira,Q1480561,issue tracking system,1,1
+Q9184057,CLIR,Q58325919,telecommunications services,1,1
+Q20514253,blockchain,Q109816572,concept of time,2,0
+Q850,MySQL,Q1645817,streaming server,2,0
+Q287228,ebXML,Q576465,GPS eXchange Format,2,0
+Q431195,IBM Db2,Q3884002,VoltDB,2,1
+Q3029579,Direction interministérielle du numérique et du système d’information et de communication (DINSIC),Q28599747,education agency,2,0
+Q104851,firmware,Q17155032,software category,1,1
+Q5440256,Federal Information Security Management Act of 2002,Q5160964,congressional charter,2,0
+Q51731363,Point-to-Point Protocol over AAL2,Q15836568,computer network protocol,1,1
+Q1572577,product life-cycle management,Q5057785,celebrity branding,2,0
+Q392516,Agence française de sécurité sanitaire des produits de santé,Q20089159,pôle d'équilibre territorial et rural,2,0
+Q1224749,Digital Enhanced Cordless Telecommunications,Q317623,technical standard,1,1
+Q2115,Extensible Markup Language,Q3502441,Binary Interchange File Format,2,0
+Q17079392,TSDSI,Q7392579,Software Process Improvement Network,2,0
+Q1142376,LIFO,Q41408494,network scheduling algorithm,2,1
+Q254183,augmented reality,Q599967,autopoiesis,2,0
+Q270471,virtualization,Q7449091,Semantic technology,2,0
+Q1933140,carbon dioxide equivalent,Q2961801,Gunter's chain,2,0
+Q15171,Address Resolution Protocol,Q3359815,PPPoX,2,0
+Q747499,RADIUS,Q1678488,TACACS,3,1
+Q406655,AirDrop,Q4839801,backup software,2,0
+Q1201019,proof of concept,Q6017127,minimum viable product,2,1
+Q899383,European Telecommunications Standards Institute,Q1058914,software company,2,0
+Q2493,data compression,Q3242320,enzymatic liquefaction,2,0
+Q221779,European Conference of Postal and Telecommunications Administrations,Q16926150,Transnational organization,2,1
+Q94,Android,Q15282750,Windows Phone 8.1,3,1
+Q94,Android,Q483318,Symbian,2,1
+Q5440256,Federal Information Security Management Act of 2002,Q476068,Act of Congress in the United States,1,1
+Q221779,European Conference of Postal and Telecommunications Administrations,Q9690903,International Federation for Victory Over Communism,2,0
+Q8811,HyperText Markup Language,Q2661442,W3C Recommendation,1,1
+Q899383,European Telecommunications Standards Institute,Q1719063,betting shop,2,0
+Q1750812,ergonomics,Q184784,architectural drawing,2,0
+Q18211976,nickel-cadmium,Q901671,Laves phase,2,0
+Q15995590,Wireless Broadband Alliance,Q2518331,offshore company,2,0
+Q8248940,Bluetooth,Q911772,technical chemistry,2,0
+Q47607,Structured Query Language,Q845739,query language,1,1
+Q161410,peer-to-peer,Q146813,client-server,2,1
+Q3059271,EtherCalc,Q5610543,demo,2,0
+Q1224345,differentiated services,Q271870,power-line communication,2,0
+Q296643,Association of Radio Industries and Businesses,Q294801,eco-control body,2,0
+Q352455,Adaptive Multi-Rate Wideband,Q2481505,audio codec,1,1
+Q270471,virtualization,Q1415656,hierarchical storage management,2,0
+Q1411027,Telecommunication Technology Committee,Q28523131,organization based in Belarus,2,0
+Q1481411,IT service management,Q60031086,branch of pseudoscience,2,0
+Q334765,hotspot,Q614362,Orange Livebox,3,1
+Q836575,quality assurance,Q5377030,energy conservation measure,2,0
+Q3966,computer hardware,Q193091,optoelectronics,2,0
+Q79984,Ethernet,Q3631847,voice chat in online gaming,2,0
+Q29169143,data scientist,Q60028304,Lieutenant Governors of Brazil,2,0
+Q1052698,jitter,Q1323086,image noise,2,1
+Q193933,dioptre,Q16782623,English unit of measurement,2,0
+Q186224,Wireless Application Protocol,Q6313217,time standard,2,0
+Q229804,3rd Generation Partnership Project,Q4830453,business,1,1
+Q270471,virtualization,Q427777,Science and technology of the Song dynasty,2,0
+Q2867785,AFNIC,Q1369723,Web Agency,2,0
+Q2115,Extensible Markup Language,Q7508366,sidecar file,2,0
+Q221779,European Conference of Postal and Telecommunications Administrations,Q111333095,Global Justice And Advancement Party,2,0
+Q2078,Scalable Vector Graphics,Q20155966,XML-based format,1,1
+Q2539,machine learning,Q106371273,fine arts,2,0
+Q627335,workflow,Q155930,maritime transport,2,0
+Q1536,Coordinated Universal Time,Q849275,civil time,2,1
+Q2194,Windows Media Audio,Q20198160,lossy audio coding format,1,1
+Q193321,Java Virtual Machine,Q3129265,HECTOR MX,2,0
+Q850661,XQuery,Q2063791,SQL:2008,3,1
+Q20514253,blockchain,Q24034552,mathematical concept,2,0
+Q4732409,Alliance for Telecommunications Industry Solutions,Q1787017,cancer registry,2,0
+Q193321,Java Virtual Machine,Q85717678,Trusted computing,2,0
+Q18979,Kanban,Q2135465,legal concept,2,0
+Q9367264,Office of Electronic Communication,Q7138164,park district,2,0
+Q163393,Post Office Protocol 3,Q2525317,connectionless protocol,2,0
+Q81945,Voice over IP,Q1780543,communication technology,2,1
+Q20072248,Hadoop Distributed Filesystem,Q174989,file system,1,1
+Q483318,Symbian,Q87993016,Android distribution,2,1
+Q2254396,Viaccess,Q1132207,business incubator,2,0
+Q193321,Java Virtual Machine,Q139859,closed platform,2,0
+Q9353697,TFTS,Q15057100,broadband Internet access,3,1
+Q916196,Citrix Systems,Q11885129,artist agency,2,0
+Q219763,MPEG-4,Q27198004,RELAX NG schema file,2,0
+Q5324052,ERMES,Q230872,stateful protocol,2,0
+Q338966,access-control list,Q5341294,educational measurement,2,0
+Q352455,Adaptive Multi-Rate Wideband,Q2441645,sound format,2,1
+Q268201,Wireless Markup Language,Q467454,Rich Text Format,2,0
+Q721869,Reverse Address Resolution Protocol,Q5013874,CRFS (Coherent Remote File System),2,0
+Q852835,customer,Q636497,stock character,2,0
+Q131566,Institute of Electrical and Electronics Engineers,Q2396296,Helsinki Committee for Human Rights,2,0
+Q836575,quality assurance,Q2050700,paper folding,2,0
+Q5392830,encoder,Q1897785,photovoltaic system,2,0
+Q190746,Advanced Encryption Standard,Q3477575,Secure User Plane Location,2,0
+Q270471,virtualization,Q609131,powertrain technology,2,0
+Q193321,Java Virtual Machine,Q216651,Atmel AVR,2,0
+Q392516,Agence française de sécurité sanitaire des produits de santé,Q423790,urban community,2,0
+Q1411027,Telecommunication Technology Committee,Q856625,branch of libraries,2,0
+Q221682,semaphore,Q26883106,finely chopped,2,0
+Q1224345,differentiated services,Q1630941,teleconference,2,1
+Q11660,artificial intelligence,Q184784,architectural drawing,2,0
+Q5324680,EXFO,Q16968466,regional health authority,2,0
+Q211171,polychlorinated biphenyl,Q56256086,group of chemical compounds,1,1
+Q207434,human–computer interaction,Q184784,architectural drawing,2,0
+Q221682,semaphore,Q3406136,ProMES,2,0
+Q11661,information technology,Q1368144,Esperantology,2,0
+Q1750812,ergonomics,Q109425807,cultural well-being,2,0
+Q115637,Mobile Station Roaming Number,Q58328791,identifiant non signifiant,2,1
+Q42283,File Transfer Protocol,Q290378,internet standard,1,1
+Q204833,Enhanced Data Rates for GSM Evolution,Q26763979,mobile phone network standard,1,1
+Q221682,semaphore,Q81009,rhetoric,2,0
+Q762660,KeePass,Q506883,free and open-source software,1,1
+Q11103,Internet Protocol version 4,Q5394558,diplomatic edition,2,0
+Q4929239,data collection,Q14204746,travelling with children,2,0
+Q221682,semaphore,Q4371075,Graphene production techniques,2,0
+Q627335,workflow,Q28520605,procedure,1,1
+Q1575,Internet Explorer,Q9361521,trial,2,0
+Q846636,software architecture,Q811979,architectural structure,2,0
+Q135035,Data Encryption Standard,Q917023,SSI motherboard form factors,2,0
+Q2867785,AFNIC,Q4830453,business,1,1
+Q1054787,Nippon Telegraph and Telephone,Q3591545,financial service company,2,0
+Q152763,lithium compounds,Q1340366,Enders reagents,2,0
+Q79578,Google Web Toolkit,Q1691212,XML Binding Language,2,1
+Q185796,NTSC,Q1144899,broadcast television system,1,1
+Q2867785,AFNIC,Q16968466,regional health authority,2,0
+Q15587490,construction client,Q63431749,ambassador of Hungary to Norway,2,0
+Q75,Internet,Q1301371,computer network,1,1
+Q17370651,Orange cloud for business,Q1416636,non-banking financial company,2,0
+Q1487,hacker,Q5136459,clubbing,2,0
+Q179465,polyphony,Q617028,instrumentation,2,0
+Q47607,Structured Query Language,Q2063791,SQL:2008,3,1
+Q2641430,high-density polyethylene,Q81163,polymer,1,1
+Q483318,Symbian,Q57265164,/e/,3,1
+Q15587490,construction client,Q56654089,superintendent of Centro,2,0
+Q17079392,TSDSI,Q1311569,Railway divisions in Germany,2,0
+Q79697,4G,Q2674461,mobile phone generation,1,1
+Q466,World Wide Web,Q1662611,IT system,2,0
+Q749245,Autonomous System,Q2400718,divisor set,2,0
+Q16340,XPath,Q845739,query language,1,1
+Q208160,courage,Q157811,virtue,1,1
+Q228502,access control,Q33104279,philosophical concept,2,0
+Q1575,Internet Explorer,Q1340793,commercial software,2,0
+Q1650302,RJ45,Q2897834,4P4C modular connector,2,1
+Q826165,Web Ontology Language,Q13405544,frame language,2,1
+Q32110,XSLT,Q6138701,RDF query language,2,1
+Q916196,Citrix Systems,Q133744,tour operator,2,0
+Q30682903,data protection officer,Q60028304,Lieutenant Governors of Brazil,2,0
+Q2826678,Agence nationale des fréquences,Q7138164,park district,2,0
+Q15587490,construction client,Q664547,Grand Council of Bern,2,0
+Q831575,Ishikawa diagram,Q2928099,Bulletinage,2,0
+Q264364,Common Gateway Interface,Q23001701,technics,2,0
+Q81945,Voice over IP,Q1916441,media technology,2,1
+Q1017587,Business Objects,Q6881511,enterprise,1,1
+Q206047,Asynchronous Transfer Mode,Q317623,technical standard,1,1
+Q2254396,Viaccess,Q23017800,large-cap,2,0
+Q8248940,Bluetooth,Q100232465,vehicle technology,2,0
+Q850,MySQL,Q3772627,GNOME Utilities,2,0
+Q193424,web service,Q28168011,X server,2,0
+Q18833,Microsoft SharePoint,Q107415,Group decision support systems,3,1
+Q1958286,web indexing,Q537823,appropriate technology,2,0
+Q1201019,proof of concept,Q4850520,Baldwin 4-8+8-4-750/8-DE,2,0
+Q93312,OSI model,Q4380897,enterprise architecture framework,2,0
+Q22661306,Kubernetes,Q15968274,GNOME Core Applications,2,0
+Q135005,phishing,Q4071928,cyberattack,2,1
+Q1958286,web indexing,Q110934262,analog technology,2,0
+Q177765,biometrics,Q2465832,branch of science,2,1
+Q15587490,construction client,Q103838820,elected position,2,0
+Q816432,project manager,Q81034197,Slovene ambassador to Slovakia,2,0
+Q206047,Asynchronous Transfer Mode,Q110040336,LANDRS Science Drone,2,0
+Q739120,HTTP/2,Q4485156,software feature,1,1
+Q211171,polychlorinated biphenyl,Q187661,carcinogen,1,1
+Q2994294,GMSK,Q349868,angle modulation,2,1
+Q916196,Citrix Systems,Q1058914,software company,1,1
+Q189223,Turing test,Q55215251,medical test type,2,0
+Q7935151,Virtual Private Cloud,Q60229368,Developer Portal,2,0
+Q5324680,EXFO,Q105547053,UK cable company,2,0
+Q16340,XPath,Q28941000,SQL:2016,3,1
+Q344266,Active Server Pages,Q1330336,web framework,1,1
+Q189223,Turing test,Q11128390,Resurgence,2,0
+Q29120,Apache Hadoop,Q20983788,free operating system,2,1
+Q46794,Subversion,Q56191572,Escornabot,2,0
+Q2199289,Géoportail,Q35127,website,1,1
+Q846636,software architecture,Q64808276,Vernacular Language (Cook Islands Máori),2,0
+Q846636,software architecture,Q111467776,Vision and Language,2,0
+Q865817,Java applet,Q91314720,Qt WebEngine,2,1
+Q47607,Structured Query Language,Q28163355,SQL-86,3,1
+Q2407,C++,Q28920795,function-level language,2,1
+Q646089,Consumer Electronics Show,Q43229,organization,1,1
+Q20072248,Hadoop Distributed Filesystem,Q7302818,Record-oriented filesystem,2,0
+Q15618663,product backlog,Q3475445,Schmilblick,2,0
+Q289,television,Q209588,satellite television,3,1
+Q17079392,TSDSI,Q2948132,chambre consulaire,2,0
+Q457396,ambient intelligence,Q23017666,Art & Architecture Thesaurus LOD Dataset,2,0
+Q264364,Common Gateway Interface,Q743030,environmental technology,2,0
+Q515636,FIFO,Q41408440,disk scheduling algorithm,2,1
+Q5324680,EXFO,Q2566474,sutler,2,0
+Q135005,phishing,Q3570419,billion laughs attack,4,0
+Q16340,XPath,Q4117397,systems programming language,2,0
+Q135035,Data Encryption Standard,Q45941145,data standard,2,0
+Q178051,Portable Network Graphics,Q26791581,Canon Original RAW,3,1
+Q228502,access control,Q12718609,statistical analysis,2,0
+Q4929239,data collection,Q2416571,Gekokujō,2,0
+Q902751,pressurization,Q483921,adaptation,2,0
+Q899383,European Telecommunications Standards Institute,Q16968466,regional health authority,2,0
+Q15618663,product backlog,Q1743109,Unchurched,2,0
+Q20514253,blockchain,Q108616731,element in Chinese astrology,2,0
+Q747499,RADIUS,Q8777,Hypertext Transfer Protocol,2,1
+Q723685,video on demand,Q1273203,mailbox provider,2,0
+Q37033,World Wide Web Consortium,Q20651218,Amicale du quartier,2,0
+Q487343,solid-state drive,Q193395,recording medium,1,1
+Q1138866,International Commission on Non-Ionizing Radiation Protection,Q11570934,specified non-profit corporation,2,1
+Q54366,packet analyzer,Q570871,email client,2,0
+Q2115,Extensible Markup Language,Q4263410,Structure Enhanced Text,3,1
+Q183169,Jakarta Server Pages,Q167772,digital container format,2,0
+Q1340643,master builder,Q107427726,honorary consul to Bangladesh,2,0
+Q3343549,Nordnet,Q13405549,incumbent local exchange carrier,4,1
+Q870780,chatbot,Q459708,features of Firefox,2,0
+Q9367264,Office of Electronic Communication,Q3349544,agricultural office,2,0
+Q8248940,Bluetooth,Q211017,e-government,2,0
+Q13162,Internet Control Message Protocol,Q65498996,Mercurial HTTP command protocol over TLS,2,0
+Q1201019,proof of concept,Q11226251,JR East E991,2,0
+Q678615,CompactFlash,Q48739515,U.2,2,0
+Q92438,microblogging,Q4485156,software feature,1,1
+Q1502887,geodetic reference system,Q2383591,bipolar coordinates,3,1
+Q836575,quality assurance,Q65668588,edit,2,0
+Q1377194,European Union Agency for Cybersecurity,Q107671432,service department of the European Commission,2,1
+Q916196,Citrix Systems,Q1341478,energy company,2,0
+Q178127,push-to-talk,Q59285058,sound reproduction,2,0
+Q431344,ADSL2+,Q211017,e-government,2,0
+Q899383,European Telecommunications Standards Institute,Q105547053,UK cable company,2,0
+Q422057,Institut national de recherche et de sécurité,Q109640306,service and research unit,2,1
+Q3025536,DevOps,Q607013,pair programming,3,1
+Q1054787,Nippon Telegraph and Telephone,Q1318768,snack bar,2,0
+Q1568118,personal information manager,Q15079042,spaced repetition software,2,0
+Q270471,virtualization,Q59285058,sound reproduction,2,0
+Q161618,asymmetric digital subscriber line,Q5063947,low floor technology,2,0
+Q16340,XPath,Q7263491,information retrieval query language,2,1
+Q207434,human–computer interaction,Q2996863,Coprologie,2,0
+Q9367264,Office of Electronic Communication,Q1970777,nature conservation authority,2,0
+Q228327,access network,Q18198738,Global Multistakeholder Meeting on the Future of Internet Governance,3,0
+Q81945,Voice over IP,Q48772760,Solar energy conversion,2,0
+Q131164,Web 2.0,Q28972120,fashion trend,2,0
+Q42332,Portable Document Format,Q17154458,Netpbm formats,2,0
+Q179465,polyphony,Q106628249,world music genre,2,0
+Q9367264,Office of Electronic Communication,Q1148446,patent office,2,1
+Q2072356,Amazon Elastic Compute Cloud,Q5635755,HP ePrint,2,0
+Q841645,Internet television,Q18657814,isothermal technology,2,0
+Q193321,Java Virtual Machine,Q12745061,Digital Equipment Corporation 300 Professional series,2,0
+Q1054787,Nippon Telegraph and Telephone,Q891723,public company,1,1
+Q167676,sensor,Q1752270,vee belt,2,0
+Q156616,The National Institute of Statistics and Economic Studies,Q480242,statistical service,1,1
+Q189620,SOAP,Q5013874,CRFS (Coherent Remote File System),2,0
+Q816432,project manager,Q30682903,data protection officer,2,1
+Q841645,Internet television,Q211500,pneumatics,2,0
+Q2867785,AFNIC,Q105547053,UK cable company,2,0
+Q392502,Agence nationale de la sécurité des systèmes d'information,Q4164294,Indonesian non-structural government agency,2,0
+Q1750812,ergonomics,Q64810866,Advanced Analytical Skills,2,0
+Q1359246,Jira,Q956086,bug tracking system,1,1
+Q16001547,Access stratum,Q5013874,CRFS (Coherent Remote File System),2,0
+Q11422650,Kokusai Denshin Denwa,Q4830453,business,1,1
+Q4929239,data collection,Q7410159,sampling,2,0
+Q2264109,artificial general intelligence,Q7201655,Plantoid,2,0
+Q636020,Web Accessibility Initiative,Q170584,project,1,1
+Q9135,operating system,Q487365,gateway,2,0
+Q1054787,Nippon Telegraph and Telephone,Q25112142,dental service organization,2,0
+Q220499,streaming media,Q54820071,digital download,2,0
+Q191895,RS-232,Q6045205,Interaction protocol,3,0
+Q104851,firmware,Q1074158,educational software,2,0
+Q4007363,ITU Telecommunication Standardization Sector,Q5155040,community project,2,0
+Q959710,Password Authentication Protocol,Q17086335,two-factor authentication,3,1
+Q270471,virtualization,Q96572804,animal technology,2,0
+Q636020,Web Accessibility Initiative,Q21514702,abandoned project,2,0
+Q9353697,TFTS,Q50804774,Europol Platform for Experts,2,0
+Q15587490,construction client,Q112119463,chief of staff,2,0
+Q193858,International Electrotechnical Commission,Q52162350,regional standards organisation,2,1
+Q836575,quality assurance,Q17113173,cannibalization,2,0
+Q1254596,software as a service,Q5441151,fee-for-service,2,1
+Q7603,GNU General Public License,Q1437937,permissive free software license,2,1
+Q39369,hertz,Q68618328,SI unit with special name,1,1
+Q831575,Ishikawa diagram,Q816754,benchmarking,4,0
+Q184748,codec,Q108315589,RevisionRecord.php,2,0
+Q79686,Universal Mobile Telecommunications System,Q13425103,communication network,2,1
+Q179465,polyphony,Q1786517,palo,2,0
+Q1139465,Signalling System No. 7,Q26763979,mobile phone network standard,2,1
+Q161618,asymmetric digital subscriber line,Q11016,technology,1,1
+Q2826678,Agence nationale des fréquences,Q111661270,territorial agency of the United States,2,0
+Q243697,geek,Q264965,subculture,1,1
+Q46794,Subversion,Q974922,Web Map Service,2,0
+Q208160,courage,Q21168708,determination,2,0
+Q570871,email client,Q643876,Virtual printer,2,0
+Q747499,RADIUS,Q15836568,computer network protocol,1,1
+Q94,Android,Q18845397,Windows 10 Mobile,3,1
+Q816432,project manager,Q3333733,musicology profession,2,0
+Q457396,ambient intelligence,Q1741898,children's language,2,0
+Q457396,ambient intelligence,Q3016945,settlement date,2,0
+Q8795,Internet Protocol,Q6723631,machine,2,0
+Q1537683,Google File System,Q339678,distributed data store,2,1
+Q189223,Turing test,Q188211,invariant,2,0
+Q189223,Turing test,Q5574851,mathematical diagram,2,0
+Q392502,Agence nationale de la sécurité des systèmes d'information,Q652812,port authority,2,0
+Q1369503,Estimated Time of Arrival,Q14333806,time,2,1
+Q15618663,product backlog,Q57495609,old,2,0
+Q680268,World Radiocommunication Conference,Q15900647,conference series,1,1
+Q183169,Jakarta Server Pages,Q109772972,technical drawing,2,0
+Q167676,sensor,Q65037298,optical component,2,1
+Q42591,mp3,Q379637,Multi-Band Excitation,2,1
+Q221682,semaphore,Q603944,data transformation,2,0
+Q2194,Windows Media Audio,Q379637,Multi-Band Excitation,2,0
+Q865817,Java applet,Q438556,PHP accelerator,2,1
+Q59430415,A3: A Topology Construction Algorithm for Wireless Sensor Networks,Q13442814,scholarly article,1,1
+Q59,PHP,Q1993334,interpreted language,1,1
+Q188816,Lightweight Directory Access Protocol,Q2622793,JetDirect,2,0
+Q2192,Graphics Interchange Format,Q215106,TIFF,2,1
+Q8777,Hypertext Transfer Protocol,Q909736,WAN optimization,2,1
+Q178127,push-to-talk,Q110934262,analog technology,2,0
+Q186224,Wireless Application Protocol,Q919510,United States Military Standard,2,0
+Q55692,Active Directory,Q756230,directory service,1,1
+Q3025536,DevOps,Q814447,behavior-driven development,2,1
+Q166074,Extensible HyperText Markup Language,Q85875700,Norma Oficial Mexicana,2,0
+Q485,computer virus,Q66755638,computer graphics term,2,0
+Q392502,Agence nationale de la sécurité des systèmes d'information,Q110376455,Australian Government body,2,0
+Q865817,Java applet,Q30740917,logiciel auto-école,2,0
+Q2407,C++,Q12772052,multi-paradigm programming language,1,1
+Q302022,ActiveX,Q21169670,machine learning framework,2,0
+Q1125400,Confluence,Q474157,collaborative software,1,1
+Q1288390,Label Distribution Protocol,Q104985816,first-hop redundancy protocol,2,0
+Q749245,Autonomous System,Q78054942,preordered set,2,0
+Q3109006,GlobeCast World TV,Q59545,labour hire,2,0
+Q183169,Jakarta Server Pages,Q27915174,RADARSAT-1 CEOS Null Volume Directory File,2,0
+Q836575,quality assurance,Q5249498,declassification,2,0
+Q80535,MIDI,Q235557,file format,2,1
+Q32110,XSLT,Q2661442,W3C Recommendation,1,1
+Q3059271,EtherCalc,Q3125508,hacking tool,2,0
+Q850661,XQuery,Q28941000,SQL:2016,3,1
+Q309396,keystroke logging,Q643876,Virtual printer,2,0
+Q206047,Asynchronous Transfer Mode,Q43521,geologic time scale,2,0
+Q228327,access network,Q922437,InfiniBand,3,0
+Q3025536,DevOps,Q23808624,Scaled Agile Framework,3,1
+Q166936,Internet Message Access Protocol,Q28380029,network file system,2,0
+Q191342,LAMP,Q7998546,wide-spectrum language,2,0
+Q21204,International Phonetic Alphabet,Q579287,phonetic alphabet,1,1
+Q10290274,Gmsk,Q348091,nuclear technology,2,0
+Q392516,Agence française de sécurité sanitaire des produits de santé,Q3480432,Departmental Fire and Rescue Service (SDIS),2,0
+Q2407,C++,Q7998546,wide-spectrum language,2,1
+Q749245,Autonomous System,Q36161,set,1,1
+Q899383,European Telecommunications Standards Institute,Q52162350,regional standards organisation,2,1
+Q846636,software architecture,Q64812921,Computing Science,2,1
+Q15028,International Organization for Standardization,Q659206,Technischer Überwachungsverein,2,0
+Q178051,Portable Network Graphics,Q62617958,WebP,2,1
+Q17370651,Orange cloud for business,Q476118,reinsurance,2,0
+Q1369503,Estimated Time of Arrival,Q3186692,calendar year,2,0
+Q17370651,Orange cloud for business,Q1719063,betting shop,2,0
+Q9367264,Office of Electronic Communication,Q2324919,state forest,2,0
+Q2053,HTML5,Q37045,markup language,1,1
+Q1359246,Jira,Q167035,project management software,1,1
+Q899383,European Telecommunications Standards Institute,Q56342478,tourism company,2,0
+Q1347847,Central Equipment Identity Register,Q16155335,statistical database,2,1
+Q2194,Windows Media Audio,Q2720536,proprietary file format,1,1
+Q18833,Microsoft SharePoint,Q6158458,VQWiki,4,0
+Q58199,instant messaging,Q440972,compatibility mode,2,0
+Q1083894,digital terrestrial television,Q175122,terrestrial television,3,1
+Q3025536,DevOps,Q25111127,Mob programming,3,1
+Q20514253,blockchain,Q3033600,public trust doctrine,2,0
+Q488244,Windows Embedded Compact,Q3512599,TV Giant,2,0
+Q1665102,Institut national de l'information géographique et forestière,Q5189477,Crown agency,2,0
+Q3059271,EtherCalc,Q29645725,printing software,2,0
+Q29643,Wi-Fi,Q1334738,international standard,2,1
+Q178127,push-to-talk,Q19292902,vehicle safety technology,2,0
+Q179465,polyphony,Q105635529,blues genre,2,0
+Q189223,Turing test,Q3001919,mathematical coincidence,2,0
+Q184748,codec,Q21674818,MediaWiki hook,2,0
+Q9367264,Office of Electronic Communication,Q7139410,parole board,2,0
+Q2053,HTML5,Q5531642,general-purpose markup language,2,1
+Q4929239,data collection,Q11977025,indexing (information technology),2,0
+Q916196,Citrix Systems,Q217107,travel agency,2,0
+Q2115,Extensible Markup Language,Q17636230,Windows Prefetch File,2,0
+Q178127,push-to-talk,Q282413,Roman technology,2,0
+Q160470,Telnet,Q5440723,federation,2,0
+Q727490,scalability,Q137712,serializability,2,0
+Q49150,Remote Desktop Protocol,Q15836568,computer network protocol,1,1
+Q228327,access network,Q1117061,local loop,3,0
+Q678615,CompactFlash,Q1426186,mass storage,1,1
+Q850,MySQL,Q12018160,ESRI Arc Geodatabase,2,1
+Q178127,push-to-talk,Q7449091,Semantic technology,2,0
+Q161618,asymmetric digital subscriber line,Q743030,environmental technology,2,0
+Q184748,codec,Q62027817,Manual:System administration,2,0
+Q178051,Portable Network Graphics,Q39333,texture compression,2,1
+Q2872789,Autorité de Régulation des Communications Électroniques  des Postes et de la Distribution de la Presse,Q32798322,zelfstandig bestuursorgaan,2,0
+Q2476929,confidentiality,Q555097,accessibility,2,0
+Q1425095,Ogg Tarkin,Q184748,codec,1,1
+Q723685,video on demand,Q168210,Internet forum,2,0
+Q189436,speech recognition,Q109425807,cultural well-being,2,0
+Q1752554,Telecommunications Industry Association,Q51885731,European Standardization Organization,2,0
+Q228502,access control,Q106856637,halakhic concept,2,0
+Q20514253,blockchain,Q72943202,concept of democracy,2,0
+Q15587490,construction client,Q932945,khatib,2,0
+Q1026962,digital humanities,Q66593259,branch of biotechnology,2,0
+Q2115,Extensible Markup Language,Q278934,shapefile,2,0
+Q133454,high-definition television,Q99602118,NTSC analog television standard,2,1
+Q3510521,computer security,Q8148,industry,1,1
+Q9135,operating system,Q907342,compatibility layer,2,1
+Q846636,software architecture,Q64812449,business information systems,2,1
+Q15587490,construction client,Q11938128,Mutasarrıf,2,0
+Q902751,pressurization,Q316,love,2,0
+Q11103,Internet Protocol version 4,Q2900369,Christian Community Bible,2,0
+Q721869,Reverse Address Resolution Protocol,Q3359815,PPPoX,2,0
+Q2944989,Centre commun d'études de télévision et télécommunications,Q109640306,service and research unit,2,1
+Q338978,Access Point Name_Enable,Q54975531,incorrect identifier value,2,0
+Q229804,3rd Generation Partnership Project,Q43229,organization,1,1
+Q29169143,data scientist,Q15839299,theatrical occupation,2,0
+Q846636,software architecture,Q7394713,STEAM fields,2,1
+Q2078,Scalable Vector Graphics,Q105599400,vector graphics file format,1,1
+Q1377194,European Union Agency for Cybersecurity,Q2826637,executive agency of the European Union,2,1
+Q1394796,false acceptance rate,Q151885,concept,1,1
+Q18833,Microsoft SharePoint,Q5358377,electronic lab notebook,2,0
+Q80998,firewall,Q210813,direct memory access,2,0
+Q30682903,data protection officer,Q109255195,Ministre des affaires étrangères  de la coopération internationale  de l'Intégration africaine et des guinéens de l'étranger,2,0
+Q627335,workflow,Q21013308,timing,2,0
+Q221779,European Conference of Postal and Telecommunications Administrations,Q6053760,International Swaminarayan Satsang Organisation,2,0
+Q1347847,Central Equipment Identity Register,Q110853983,RDF database,2,0
+Q4732409,Alliance for Telecommunications Industry Solutions,Q5380419,Enterprises in the Soviet Union,2,0
+Q221779,European Conference of Postal and Telecommunications Administrations,Q5570909,global union federation,2,0
+Q32110,XSLT,Q110946204,rule-based language,2,1
+Q20072248,Hadoop Distributed Filesystem,Q18156745,Trafodion,2,1
+Q183169,Jakarta Server Pages,Q1056408,open file format,2,0
+Q392516,Agence française de sécurité sanitaire des produits de santé,Q2933302,School fund,2,0
+Q1061166,data mart,Q2115026,presentation program,2,0
+Q15995590,Wireless Broadband Alliance,Q161726,multinational corporation,2,0
+Q15587490,construction client,Q56654120,superintendent of Recreio e Vargens,2,0
+Q9353697,TFTS,Q5264354,design language,2,0
+Q1288390,Label Distribution Protocol,Q2044242,PJLink,2,0
+Q115637,Mobile Station Roaming Number,Q4392007,registration number,2,0
+Q11288,web server,Q24839054,sticker,2,0
+Q133454,high-definition television,Q105990097,UNIX 93,2,0
+Q81414,Internet protocol suite,Q290378,internet standard,1,1
+Q2254396,Viaccess,Q3307920,console manufacturer,2,0
+Q826165,Web Ontology Language,Q28009469,Python bytecode,2,0
+Q546739,Layer 2 Tunneling Protocol,Q1163955,Point-to-Point Tunneling Protocol,2,1
+Q8815,ASCII,Q9383074,XJP,4,1
+Q7935151,Virtual Private Cloud,Q151885,concept,1,1
+Q270471,virtualization,Q10858759,Asgard technology in Stargate,2,0
+Q902751,pressurization,Q108743950,registered or first published in the US,2,0
+Q1750812,ergonomics,Q64810407,renewable and sustainable engineering,2,0
+Q691593,Common Object Request Broker Architecture,Q105990097,UNIX 93,2,0
+Q189436,speech recognition,Q184784,architectural drawing,2,0
+Q352455,Adaptive Multi-Rate Wideband,Q44299010,DTS,2,1
+Q846636,software architecture,Q16602093,legislative drafting,2,0
+Q15587490,construction client,Q108377574,Islamic religious occupation,2,0
+Q167676,sensor,Q1409295,track switch,2,0
+Q431344,ADSL2+,Q336170,wastewater technology,2,0
+Q3510521,computer security,Q555097,accessibility,2,0
+Q190746,Advanced Encryption Standard,Q85875700,Norma Oficial Mexicana,2,0
+Q22661306,Kubernetes,Q21125433,free or open-source video game,2,0
+Q268201,Wireless Markup Language,Q7203483,playlist markup language,2,1
+Q2192,Graphics Interchange Format,Q7670377,Tagged Image File Format/Electronic Photography,3,1
+Q1572577,product life-cycle management,Q5166482,conversion optimization,2,0
+Q228327,access network,Q1976011,Bynet,3,0
+Q1481411,IT service management,Q112046,transmission system operator,2,0
+Q850,MySQL,Q1315933,game server,2,0
+Q2867785,AFNIC,Q1058914,software company,2,0
+Q230187,crosstalk,Q858318,pyroelectricity,2,0
+Q16340,XPath,Q17092833,Jaql,2,1
+Q243697,geek,Q19116554,youth subculture,2,1
+Q206047,Asynchronous Transfer Mode,Q111193247,interoperability framework,2,0
+Q16876602,Cloud Security Alliance,Q4671329,academy school,2,0
+Q183169,Jakarta Server Pages,Q1840684,Privacy-enhanced Electronic Mail,2,0
+Q4007363,ITU Telecommunication Standardization Sector,Q5055151,caving organization,2,0
+Q379626,Advanced Message Queuing Protocol,Q8777,Hypertext Transfer Protocol,2,0
+Q1268005,Post Office Protocol,Q126998,logical link control,2,0
+Q193321,Java Virtual Machine,Q12745393,Hewlett Packard HP-9816,2,0
+Q131566,Institute of Electrical and Electronics Engineers,Q52162350,regional standards organisation,2,1
+Q29169143,data scientist,Q511138,inspector,2,0
+Q2551624,IPv6,Q15836568,computer network protocol,1,1
+Q2254396,Viaccess,Q1389311,integrated device manufacturer,2,0
+Q133454,high-definition television,Q2309650,MPEG-3,2,0
+Q276582,binary-coded decimal,Q25211958,Unum,2,1
+Q3702971,personal data,Q694752,false imprisonment,2,0
+Q727490,scalability,Q11998326,lustre,2,0
+Q376150,International Telecommunication Union,Q659206,Technischer Überwachungsverein,2,0
+Q826165,Web Ontology Language,Q2661442,W3C Recommendation,1,1
+Q183169,Jakarta Server Pages,Q5227180,Data Interchange Format,2,0
+Q1347847,Central Equipment Identity Register,Q1787017,cancer registry,2,0
