@@ -47,7 +47,7 @@ The following selection methodologies are used:
 - `src/distance_calculation.py` — Utilities for selection methodologies
 - `src/embeddings_utils.py` — Utilities for embedding processing
 
-### Environement
+### Environment
 - [Python 3.x](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/)
 - Install required Python packages using pip and the file `requirements.txt` 
