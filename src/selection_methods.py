@@ -1,13 +1,7 @@
 import random
 import numpy as np
 import embeddings_utils
-from distance_calculation import (
-    compute_distance_euclidean,
-    compute_distance_mean,
-    compute_distance_mean_b,
-    compute_distance_barycentre_euclidean,
-    compute_distance_barycentre_euclidean_b,
-)
+from distance_calculation import (compute_distance_euclidean,compute_distance_mean,compute_distance_mean_b,compute_distance_barycentre_euclidean,compute_distance_barycentre_euclidean_b)
 import pandas as pd
 from typing import List, Optional, Any
 
