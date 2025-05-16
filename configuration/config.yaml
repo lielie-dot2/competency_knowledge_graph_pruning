@@ -1,0 +1,32 @@
+threshold: 0.6
+sequence_length: 4
+padding: "between"
+dim: 300
+embeddings_path: "../../TransEmbeddings_updated"
+decisions_file: "./sequenced_simple.pkl"
+models:
+  - "./models/model_dataset1.h5"
+  - "./models/model_dataset2.h5"
+  - "./models/model_dataset3.h5"
+train_files:
+  - "./data/dataset1_gold_decisions_train.csv"
+  - "./data/dataset2_gold_decisions_train.csv"
+  - "./data/dataset3_gold_decisions_train.csv"
+
+test_files:
+  - "./data/dataset1_gold_decisions_test.csv"
+  - "./data/dataset2_gold_decisions_test.csv"
+  - "./data/dataset3_gold_decisions_test.csv"
+
+methods:
+  - "Random"
+  - "M1"
+  - "M2"
+  - "M3"
+  - "M4"
+  - "M5"
+grid_search:
+  min_val: 1
+  max_val: 20
+  step: 1
+output_file: "./data/optimal_results_all_methods.csv"
