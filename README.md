@@ -27,8 +27,9 @@ Following [13], competency is assessed from the perspective of the **vector embe
 
 ### Distance-Based Methods:
 
-Given two pairs (a,b)(a, b)(a,b) and (c,d)(c, d)(c,d), with embeddings a,b,c,da, b, c, da,b,c,d, the following distance metrics are used:
+The following selection methodologies are used:
 
+- **Random:** Random retrieval
 - **M1:** Average Euclidean distance between corresponding elements.
 - **M2:** Distance between heads only.
 - **M3:** Distance between tails only.
