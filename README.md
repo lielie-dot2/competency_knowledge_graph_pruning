@@ -37,15 +37,15 @@ The following selection methodologies are used:
 - **M5:** Based on minimizing the **log-loss** of analogical inference predictions, selecting pairs that lead tothe lowest prediction error. 
 
 ## Repository Structure
-- `/data/` — Datasets and train/test splits
-- `/models/` — Analogical classifiers trained on the different models
-- `/src/` — Scripts to run experiments
-- `src/selection_methods.py` — Implementations of the different selection methodologies
-- `src/find_best_pairs.py` — Main script to run all experimentations using the models, datasets and methods
-- `src/generate_sequence_simple.py` —  Script that generates a dictionnary with the concatenation of the embeddings of pairs of entities in the decision file
-- `src/model_tuning_training.py` — Script to tune and train the analogical model on a particular Dataset
-- `src/distance_calculation.py` — Utilities for selection methodologies
-- `src/embeddings_utils.py` — Utilities for embedding processing
+- `./data/` — Datasets and train/test splits
+- `./models/` — Analogical classifiers trained on the different models
+- `./src/` — Scripts to run experiments
+- `./src/selection_methods.py` — Implementations of the different selection methodologies
+- `./src/find_best_pairs.py` — Main script to run all experimentations using the models, datasets and methods
+- `./src/generate_sequence_simple.py` —  Script that generates a dictionnary with the concatenation of the embeddings of pairs of entities in the decision file
+- `./src/model_tuning_training.py` — Script to tune and train the analogical model on a particular Dataset
+- `./src/distance_calculation.py` — Utilities for selection methodologies
+- `./src/embeddings_utils.py` — Utilities for embedding processing
 
 ### Environment
 - [Python 3.x](https://www.python.org/downloads/)
@@ -66,13 +66,13 @@ python3 -m src/generate_sequence_simple.py --decisions1 ./data/dataset1_gold_dec
 ```
 ## Step 3: Tune and Train the analogical model on a datasets
 ```bash
-python3 -m src/model_tuning_training.py --decisions ./data/dataset1_gold_decisions.csv --model ./model/model_dataset1.h5 --embeddings path/to/your/embedding/hashmap/database --sequenced-decisions ./data/sequenced_simple.pkl
+python3 -m src/model_tuning_training.py --decisions ./data/dataset1_gold_decisions.csv --model ./models/model_dataset1.h5 --embeddings path/to/your/embedding/hashmap/database --sequenced-decisions ./data/sequenced_simple.pkl
 ```
 ```bash
-python3 -m src/model_tuning_training.py --decisions ./data/dataset2_gold_decisions.csv --model ./model/model_dataset2.h5 --embeddings path/to/your/embedding/hashmap/database --sequenced-decisions ./data/sequenced_simple.pkl
+python3 -m src/model_tuning_training.py --decisions ./data/dataset2_gold_decisions.csv --model ./models/model_dataset2.h5 --embeddings path/to/your/embedding/hashmap/database --sequenced-decisions ./data/sequenced_simple.pkl
 ```
 ```bash
-python3 -m src/model_tuning_training.py --decisions ./data/dataset3_gold_decisions.csv --model ./model/model_dataset3.h5 --embeddings path/to/your/embedding/hashmap/database --sequenced-decisions ./data/sequenced_simple.pkl
+python3 -m src/model_tuning_training.py --decisions ./data/dataset3_gold_decisions.csv --model ./models/model_dataset3.h5 --embeddings path/to/your/embedding/hashmap/database --sequenced-decisions ./data/sequenced_simple.pkl
 ```
 ## Step 4: Pre-compute (M5) scores
 ```bash
