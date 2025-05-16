@@ -7,13 +7,8 @@ import numpy as np
 import pandas as pd
 import tqdm
 import embeddings_utils
-
-
 def main():
-    parser = argparse.ArgumentParser(
-        prog="generate_sequenced_decisions",
-        description="Generate simple sequenced decisions for training and inference"
-    )
+    parser = argparse.ArgumentParser(prog="generate_sequenced_decisions", description="Generate simple sequenced decisions for training and inference")
     parser.add_argument("--decisions1", dest="decisions1_path", help="CSV decision file for DS1", required=True)
     parser.add_argument("--decisions2", dest="decisions2_path", help="CSV decision file for DS2", required=True)
     parser.add_argument("--decisions3", dest="decisions3_path", help="CSV decision file for DS3", required=True)
