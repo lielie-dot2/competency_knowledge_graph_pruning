@@ -8,6 +8,7 @@ import lmdb
 import pickle
 import pandas as pd
 import embeddings_utils
+from typing import Callable, Optional
 import argparse
 import yaml
 import logging
@@ -20,7 +21,7 @@ def load_config(config_file:str):
     with open(config_file, "r") as f:
         return yaml.safe_load(f)
 
-def get_method_function(method_name: str) -> :
+def get_method_function(method_name: str) -> Optional[Callable] :
     method_mapping = {
         "M1": get_distance_pairs,
         "M2": get_distance_source,
@@ -115,6 +116,7 @@ def main():
     for model_path in models:
         for train_file in train_files:
             for test_file in test_files:
+                print("Hi")
                 logging.info(f"Running grid search for model: {model_path}, train: {train_file}, test: {test_file}")
                 for method in methods:
                     best_nb, best_f1 = grid_search_nb_keeping(model_path=model_path,embeddings_path=embeddings_path,decisions_file=decisions_file,train_file=train_file,test_file=test_file,min_val=grid_min,max_val=grid_max,step=step,dim=dim,method=method,threshold=threshold,sequence_length=sequence_length,padding=padding)

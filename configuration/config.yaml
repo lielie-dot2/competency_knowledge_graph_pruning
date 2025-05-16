@@ -2,7 +2,7 @@ threshold: 0.6
 sequence_length: 4
 padding: "between"
 dim: 300
-embeddings_path: "path/to/your/embedding/hashmap/database"
+embeddings_path: "../../TransEmbeddings/"
 decisions_file: "./data/sequenced_simple.pkl"
 models:
   - "./models/model_dataset1.h5"
