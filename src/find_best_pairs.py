@@ -95,7 +95,7 @@ def evaluate_sequenced_analogy_model(model_path : str, embeddings_path : str, de
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--config", type=str, default="config.yaml", help="Path to YAML config file")
+    parser.add_argument("--config", type=str, default="./configuration/config.yaml", help="Path to YAML config file")
     args = parser.parse_args()
     config = load_config(args.config)
     threshold = config["threshold"]
