@@ -53,7 +53,7 @@ The following selection methodologies are used:
 - Install required Python packages using pip and the file `requirements.txt` 
 
 ## Requirements
- Wikidata Embedding hashmap as an [lmdb](https://lmdb.readthedocs.io/en/release/) database. You can use either [PyTorch-BigGraph](https://torchbiggraph.readthedocs.io/en/latest/)or [Pykeen](https://pykeen.readthedocs.io/en/stable/api/pykeen.pipeline.pipeline.html#pykeen.pipeline.pipeline). You can freely adjust the training setup by modifying the configuration file located at: `./configurations/config.yaml` 
+ Wikidata Embedding hashmap as an [lmdb](https://lmdb.readthedocs.io/en/release/) database. You can use either [PyTorch-BigGraph](https://torchbiggraph.readthedocs.io/en/latest/)or [Pykeen](https://pykeen.readthedocs.io/en/stable/api/pykeen.pipeline.pipeline.html#pykeen.pipeline.pipeline). You can freely adjust the training setup by modifying the configuration file located at: `./configuration/config.yaml` 
 
 ## Step 1: Clone the repository   
 First, you will have to clone the repository on Github and go to the section called 
