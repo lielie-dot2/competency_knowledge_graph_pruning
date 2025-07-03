@@ -14,12 +14,11 @@ This works present the task of knowledge graph entity pruning through an analogi
 
 Experiments are performed on three labeled datasets containing pairs labeled with **prune (0)** and **keep (1)** decisions derived from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page), each representing a distinct domain:
 
-| Dataset | Domain | Description |
-| --- | --- | --- |
-| DS1 (dataset1) | Computer Science | Entity pairs related to computer science concepts |
-| DS2 (dataset2) | General Knowledge | Broad domain entity pairs across various topics |
-| DS3 (dataset3) | Art and Works of Art | Entity pairs related to art and work of art |
----
+| **Dataset**        | **Domain**           | **Description**                                        | **Resource**                                        |
+| ------------------ | -------------------- | ------------------------------------------------------ | --------------------------------------------------- |
+| **DS1** (dataset1) | Computer Science     | Entity pairs related to computer science concepts      | [Zenodo - DS1](https://zenodo.org/records/8091584)  |
+| **DS2** (dataset2) | General Knowledge    | Entity pairs across various general knowledge topics   | [Zenodo - DS2](https://zenodo.org/records/8091584)  |
+| **DS3** (dataset3) | Art and Works of Art | Entity pairs related to artworks | [Zenodo - DS3](https://zenodo.org/records/15600971) |
 
 ## Methodologies for Pair Selection
 
@@ -85,3 +84,8 @@ python3 -m src/find_best_pairs.py --config ./configuration/config.yml
 ## Step 6: Launch the main script for all datasets and methodologies
 
 Inspect and Analyze the results `/data/optimal_results_all_methods.csv"`
+
+## Credits
+
+Some materials used in this project are adapted from resources provided by [analogical-pruning](https://github.com/Orange-OpenSource/analogical-pruning) Github repository. The files that have been used and modified are clearly marked with a license header, in accordance with the original repository license.
+We acknowledge the original authors for making their work publicly available.
