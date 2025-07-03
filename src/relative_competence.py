@@ -12,7 +12,7 @@ import embeddings_utils
 
 
 def compute_relative_competence(model_path : str, sequence_file : str, decisions_file : str ,output_file :str,dim : int ,sequence_length :int , padding: str) -> pd.DataFrame: 
-    """ Computes the log-loss competency score the left-pairs of each trained model dataset. """
+    """ Computes the log-loss competency score for the left-pairs of each trained model dataset. """
     logger = logging.getLogger(__name__),
     analogy_classifier = tf.keras.models.load_model(model_path)
     sequenced_decisions = pickle.load(open(sequence_file, "rb"))
@@ -61,7 +61,6 @@ def compute_relative_competence(model_path : str, sequence_file : str, decisions
     logger.info(f"Saved competence scores to {output_file}")
     return true_decisions
 
-
 def main():
     """ Main function to load configuration and compute relative competence for all models. """
     logging.basicConfig(level=logging.INFO)
@@ -84,7 +83,6 @@ def main():
         output_file = f"./data/competence_scores/{model_name}_competence_logloss.csv"
         logger.info(f"Processing model: {model_path}")
         compute_relative_competence(model_path=model_path,sequence_file=decisions_file,decisions_file=decision_file,output_file=output_file,dim=dim,sequence_length=sequence_length,padding=padding)
-
 
 if __name__ == "__main__":
     main()
