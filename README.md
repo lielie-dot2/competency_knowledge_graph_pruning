@@ -22,7 +22,7 @@ Experiments are performed on three labeled datasets containing pairs labeled wit
 
 ## Methodologies for Pair Selection
 
-Following [13], competency is assessed from the perspective of the **vector embeddings** of entity pairs. Since pairs are represented by concatenations or combinations of individual entity embeddings, several distance-based methodologies are used to estimate how "close" a training pair is to a test pair:
+Following the work of [Bounhas et al.](https://arxiv.org/pdf/2306.16296), competency is assessed from the perspective of the **vector embeddings** of entity pairs. Since pairs are represented by concatenations or combinations of individual entity embeddings, several distance-based methodologies are used to estimate how "close" a training pair is to a test pair:
 
 ### Distance-Based Methods:
 
